@@ -1,0 +1,8 @@
+2022-Dec-22 20:52:54 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-22 20:52:54 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-22 20:53:03 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-22 20:53:24 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser
+2022-Dec-22 20:53:26 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-22 20:53:26 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-22 20:53:30 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-22 20:53:51 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser

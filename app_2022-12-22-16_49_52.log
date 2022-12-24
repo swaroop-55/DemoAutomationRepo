@@ -1,0 +1,11 @@
+2022-Dec-22 16:49:54 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-22 16:49:55 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Displayed the header category list, size of the list is : 4
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Android (1) is matched with expected Android (1) header name in Datatable
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - HTML (3) is matched with expected HTML (3) header name in Datatable
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - JavaScript (3) is matched with expected JavaScript (3) header name in Datatable
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - selenium (1) is matched with expected selenium (1) header name in Datatable
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate the header category with expected data table
+2022-Dec-22 16:50:04 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate the size of header category , size is:4
+2022-Dec-22 16:50:05 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser

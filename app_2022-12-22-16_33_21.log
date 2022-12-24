@@ -1,0 +1,9 @@
+2022-Dec-22 16:33:22 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Chrome Browser invoked
+2022-Dec-22 16:33:23 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Logo image Displayed
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Height of logo is: 50
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Width of logo is: 50
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate height of logo is: 50
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate width of logo is: 50
+2022-Dec-22 16:33:27 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser

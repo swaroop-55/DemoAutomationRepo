@@ -1,0 +1,28 @@
+2022-Dec-24 14:48:47 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-24 14:48:47 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-24 14:48:51 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-24 14:49:04 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser
+2022-Dec-24 14:49:07 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-24 14:49:07 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-24 14:49:17 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-24 14:49:21 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser
+2022-Dec-24 14:49:24 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-24 14:49:24 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Displayed the product category list, size of the list is : 4
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Android (1) is matched with expected Android (1) header name in Datatable
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - HTML (3) is matched with expected HTML (3) header name in Datatable
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - JavaScript (3) is matched with expected JavaScript (3) header name in Datatable
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - selenium (1) is matched with expected selenium (1) header name in Datatable
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate the product category with expected data table
+2022-Dec-24 14:49:27 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate the size of product category , size is:4
+2022-Dec-24 14:49:29 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser
+2022-Dec-24 14:49:31 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Firefox browser invoked
+2022-Dec-24 14:49:31 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Browser window maximized and set timeout is 20secs
+2022-Dec-24 14:49:35 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Navigate to https://practice.automationtesting.in/shop/
+2022-Dec-24 14:49:35 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Logo image Displayed
+2022-Dec-24 14:49:36 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Height of logo is: 50
+2022-Dec-24 14:49:36 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Width of logo is: 50
+2022-Dec-24 14:49:36 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate height of logo is: 50
+2022-Dec-24 14:49:36 pm [main] INFO  AutomationDemo_BDD.Pages.MyAccountPage - Validate width of logo is: 50
+2022-Dec-24 14:49:37 pm [main] INFO  AutomationDemo_BDD.Core.WebDriverFactory - Quit the browser
